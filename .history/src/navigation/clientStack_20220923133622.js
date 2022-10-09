@@ -1,0 +1,23 @@
+import React from 'react';
+import { StyleSheet, Text, View } from 'react-native';
+import { createStackNavigator, TransitionPresets } from '@react-navigation/stack';
+import SearchScreen from '../screens/SearchScreen';
+
+
+
+const ClientSearch = createStackNavigator()
+
+export default function clientStack() {
+  return (
+    <ClientSearch.Navigator>
+
+        <ClientSearch.Screen 
+            name= "SearchScreen"
+            component= {SearchScreen}
+        />
+
+    </ClientSearch.Navigator>
+  )
+}
+
+const styles = StyleSheet.create({})

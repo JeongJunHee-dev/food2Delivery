@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646112026902",
+    "project_id": "food2delivery-1cfaa",
+    "storage_bucket": "food2delivery-1cfaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646112026902:android:70f56d690261c59ba13037",
+        "android_client_info": {
+          "package_name": "com.food2delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646112026902-bp4rvaur6api0q77b7jsv0cf4rbegn1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHUI7rEMA51a6vz-y4F3sxSCjEUlH4zjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646112026902-bp4rvaur6api0q77b7jsv0cf4rbegn1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
